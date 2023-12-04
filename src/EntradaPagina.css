@@ -1,0 +1,16 @@
+/* EntradaPagina.css */
+header {
+  text-align: start;
+  display: flex;
+  align-items: center;
+  padding: 10px; /* Ajusta según sea necesario para dar espacio alrededor del logo */
+}
+
+header img {
+  max-width: 100%;
+  height: auto;
+}
+
+  
+
+  
